@@ -1,0 +1,59 @@
+{
+  "_from": "cordova-plugin-app-exit",
+  "_id": "cordova-plugin-app-exit@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-9uKVUrMhe4jXp54uFz7SBSMFxVCXJD5xF6+fmvtUKARoX6aRlyYUBR7r5hIdKiSQaeObPU1/AxtYRDc2o0eHXg==",
+  "_location": "/cordova-plugin-app-exit",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-app-exit",
+    "name": "cordova-plugin-app-exit",
+    "escapedName": "cordova-plugin-app-exit",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-app-exit/-/cordova-plugin-app-exit-0.0.1.tgz",
+  "_shasum": "98aca7f1ae593ddaa7ac8c075392f8efb1f8a43f",
+  "_spec": "cordova-plugin-app-exit",
+  "_where": "C:\\Users\\jaki1\\Datein\\Addiction-Free-Youtube\\addiction-free-video",
+  "author": {
+    "name": "huangang",
+    "email": "huangang.zhang@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/huangang/cordova-plugin-app-exit/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-app-exit",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Implements navigator.app.exitApp on Android and iOS",
+  "homepage": "https://github.com/huangang/cordova-plugin-app-exit#readme",
+  "keywords": [
+    "cordova",
+    "exit",
+    "terminate",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-plugin-app-exit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangang/cordova-plugin-app-exit.git"
+  },
+  "version": "0.0.1"
+}

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="dev.jakobg.addictionfreevideo" version="0.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <feature name="ExitApp">
+        <param name="android-package" value="org.apache.cordova.exitapp.ExitApp" />
+    </feature>
+    <feature name="UniversalLinks">
+        <param name="android-package" value="com.nordnetab.cordova.ul.UniversalLinksPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="InAppBrowser">
+        <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
+    </feature>
+    <feature name="MusicControls">
+        <param name="android-package" value="com.homerours.musiccontrols.MusicControls" />
+    </feature>
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <name short="AF-Video">Addiction Free Video</name>
+    <description>
+        A Youtube Player that removes addictive elements
+    </description>
+    <author email="afv@jakobg.dev" href="https://www.jakobg.dev">
+        Jakob Gaiswinkler
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <universal-links>
+        <host name="*.youtube.com" scheme="https" />
+        <host name="youtube.com" scheme="https" />
+        <host name="youtu.be" scheme="https" />
+        <host name="*.youtu.be" scheme="https" />
+    </universal-links>
+    <allow-intent href="market:*" />
+    <icon src="res/icon/icon.png" />
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="AndroidLaunchMode" value="singleInstance" />
+</widget>

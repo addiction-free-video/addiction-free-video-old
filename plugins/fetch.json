@@ -1,0 +1,50 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-inappbrowser": {
+    "source": {
+      "type": "registry",
+      "id": "../plugins/cordova-plugin-inappbrowser/"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-device": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-device"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "cordova-plugin-deeplinks": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-deeplinks"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-app-exit": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-app-exit"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-music-controls2": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/ghenry22/cordova-plugin-music-controls2"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

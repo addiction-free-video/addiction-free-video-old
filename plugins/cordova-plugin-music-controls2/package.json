@@ -1,0 +1,66 @@
+{
+  "_from": "git+https://github.com/ghenry22/cordova-plugin-music-controls2.git",
+  "_id": "cordova-plugin-music-controls2@3.0.5",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-music-controls2",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/ghenry22/cordova-plugin-music-controls2",
+    "rawSpec": "https://github.com/ghenry22/cordova-plugin-music-controls2",
+    "saveSpec": "git+https://github.com/ghenry22/cordova-plugin-music-controls2.git",
+    "fetchSpec": "https://github.com/ghenry22/cordova-plugin-music-controls2.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/ghenry22/cordova-plugin-music-controls2.git#7594980d880ec8c30037c5f3e66701cd828a0d93",
+  "_spec": "https://github.com/ghenry22/cordova-plugin-music-controls2",
+  "_where": "C:\\Users\\jaki1\\Datein\\Addiction-Free-Youtube\\addiction-free-video",
+  "author": {
+    "name": "ghenry22"
+  },
+  "bugs": {
+    "url": "https://github.com/ghenry22/cordova-plugin-music-controls2/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-music-controls2",
+    "platforms": [
+      "android",
+      "windows",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Music controls for Cordova apps",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=4.0.0"
+    }
+  ],
+  "homepage": "https://github.com/ghenry22/cordova-plugin-music-controls2#readme",
+  "keywords": [
+    "cordova",
+    "music",
+    "controller",
+    "controls",
+    "media",
+    "plugin",
+    "notification",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-windows"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-music-controls2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghenry22/cordova-plugin-music-controls2.git"
+  },
+  "version": "3.0.5"
+}
