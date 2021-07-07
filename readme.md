@@ -1,4 +1,3 @@
-A Youtube Player that removes addictive elements
+This is the old version of the app made with Cordova.
 
-[addiction-free-video.github.io](https://addiction-free-video.github.io/)
-[community forum](https://addiction-free-video.tribe.so/)
+Check out the new version made with react native: [AF-Video app](https://github.com/addiction-free-video/addiction-free-video)
